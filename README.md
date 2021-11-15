@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @premalk
 - 👀 I’m interested to program for typical things.
 - 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on npm-package
 - 📫 Reach me on hello@premalkatigar.com
 
 <!---
