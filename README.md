@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @premalk
 - 👀 I’m interested to program for typical things.
 - 🌱 I’m currently learning react-native
-- 📫 Reach me on hello@premalkatigar.com
+- 📫 write me on hello@premalkatigar.com
 
 <!---
 premalk/premalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
