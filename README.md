@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @premalk
-- 👀 I’m interested to program for typical things.
+- 👀 I’m interested in challengin programs.
 - 🌱 I’m currently learning react-native
 - 📫 write me on hello@premalkatigar.com
 
